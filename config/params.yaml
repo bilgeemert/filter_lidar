@@ -1,0 +1,9 @@
+filter_scan_node:
+  ros__parameters:
+    max_angle: 130
+    min_angle: 65
+
+distance_node:
+  ros__parameters:
+    max_distance: 1.5
+    min_distance: 1.0
